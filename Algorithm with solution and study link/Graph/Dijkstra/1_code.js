@@ -109,6 +109,5 @@ let graph = [ [ 0, 4, 0, 0, 0, 0, 0, 8, 0 ],
 			[ 0, 0, 2, 0, 0, 0, 6, 7, 0 ] ]
 dijkstra(graph, 0);
 
-// This code is contributed by rag2127
 
 
