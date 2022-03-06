@@ -1,4 +1,6 @@
 Written Tutorials:
 https://www.geeksforgeeks.org/graph-and-its-representations/
+https://www.geeksforgeeks.org/implementation-graph-javascript/
+https://betterprogramming.pub/data-structures-with-javascript-graphs-42084ec4db22
 
 video Tutorials:
